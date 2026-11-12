@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.kun</groupId>
-	<artifactId>ecommerce-fullstack</artifactId>
+	<artifactId>my-ecommerce-backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>ecommerce-fullstack</name>
-	<description>Demo project for Spring Boot</description>
+	<name>my-ecommerce-backend</name>
+	<description>My Ecommerce REST API</description>
 	<url/>
 	<licenses>
 		<license/>
